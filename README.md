@@ -1,4 +1,5 @@
-SkriptDark for Atom
+### skript-lang
+_Now for Atom!_
 
 Skript Syntax highlighter!
 
