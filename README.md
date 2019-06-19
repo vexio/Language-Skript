@@ -1,4 +1,4 @@
-### skript-lang
+# skript-lang
 _Now for Atom!_
 
 Skript Syntax highlighter!
